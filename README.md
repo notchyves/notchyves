@@ -7,3 +7,5 @@
 - im very lazy when it comes to projects
 
 bye! *and while you're here star something, will ya?*
+
+<img src="https://lanyard.cnrad.dev/api/983465136561991760?borderRadius=5px&animated=:true">
