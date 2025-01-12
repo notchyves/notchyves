@@ -15,9 +15,9 @@
   - [▶️ youtube](https://www.youtube.com/@notchyves)
 
 ### 📈 github stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=notchyves&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=notchyves&theme=radical" alt="GitHub Streak" width="400">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=notchyves&theme=radical" alt="GitHub Streak" width="400">-->
 </p>
 
 #
