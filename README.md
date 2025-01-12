@@ -1,7 +1,7 @@
 # hiya! its me, notchyves
 <img src="https://komarev.com/ghpvc/?username=notchyves&style=for-the-badge&color=gray">
 
-### 🧑‍💻 about me 
+### 😎 about me 
 - 🌱 learning - building and playing around with **new tech!** 
 - 🛠️ focus: making creative solutions through my knowledge in **c++, js/ts, and (sortof) rust.**
 - 💡 interests:
